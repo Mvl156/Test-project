@@ -1,0 +1,14 @@
+C:\Users\Doema\source\repos\Marimba\bin\Debug\netcoreapp3.1\Marimba.exe
+C:\Users\Doema\source\repos\Marimba\bin\Debug\netcoreapp3.1\Marimba.deps.json
+C:\Users\Doema\source\repos\Marimba\bin\Debug\netcoreapp3.1\Marimba.runtimeconfig.json
+C:\Users\Doema\source\repos\Marimba\bin\Debug\netcoreapp3.1\Marimba.runtimeconfig.dev.json
+C:\Users\Doema\source\repos\Marimba\bin\Debug\netcoreapp3.1\Marimba.dll
+C:\Users\Doema\source\repos\Marimba\bin\Debug\netcoreapp3.1\Marimba.pdb
+C:\Users\Doema\source\repos\Marimba\obj\Debug\netcoreapp3.1\Marimba.csproj.AssemblyReference.cache
+C:\Users\Doema\source\repos\Marimba\obj\Debug\netcoreapp3.1\Marimba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doema\source\repos\Marimba\obj\Debug\netcoreapp3.1\Marimba.AssemblyInfoInputs.cache
+C:\Users\Doema\source\repos\Marimba\obj\Debug\netcoreapp3.1\Marimba.AssemblyInfo.cs
+C:\Users\Doema\source\repos\Marimba\obj\Debug\netcoreapp3.1\Marimba.csproj.CoreCompileInputs.cache
+C:\Users\Doema\source\repos\Marimba\obj\Debug\netcoreapp3.1\Marimba.dll
+C:\Users\Doema\source\repos\Marimba\obj\Debug\netcoreapp3.1\Marimba.pdb
+C:\Users\Doema\source\repos\Marimba\obj\Debug\netcoreapp3.1\Marimba.genruntimeconfig.cache

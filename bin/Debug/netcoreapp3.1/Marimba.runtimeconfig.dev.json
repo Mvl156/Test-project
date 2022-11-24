@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Doema\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Doema\\.nuget\\packages"
+    ]
+  }
+}
